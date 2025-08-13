@@ -7,5 +7,5 @@
 🚀 Always learning and building **real-world projects**  
 🌱 Exploring **open-source** and collaborative coding  
 
-💡 *Improving skills and experimenting in coding and tech*
+💡 *Improving skills and experimenting in coding and tech*.
 
