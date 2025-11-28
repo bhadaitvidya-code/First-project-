@@ -3,7 +3,7 @@
 # Hi there, I'm Vidya 👋
 
 🎓 **Diploma Student | Electronics & Computer Engineering|**  
-💻 Passionate about **learninga codinglanguages, and Web Development**  
+💻 Passionate about **learninga coding languages, and Web Development**  
 🚀 Always learning and building **real-world projects**  
 🌱 Exploring **open-source** and collaborative coding  
 
